@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\bin\Debug\ManagerSFCS.exe.config
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\bin\Debug\ManagerSFCS.exe
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\bin\Debug\ManagerSFCS.pdb
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.Form1.resources
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.Properties.Resources.resources
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.View_Report.resources
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.exe
+C:\Users\Admin\Desktop\ManagerSFCS\ManagerSFCS\obj\Debug\ManagerSFCS.pdb
